@@ -1,5 +1,11 @@
-# udemigEbr
+<h1> UDEMIG <h1>
 
-<p>Udemig Web Site</p>
+UDEMIG örnek projemdir.
 
-![](udemigEbr.gif)
+<h2> Kullanılan Teknolojiler <h2>
+
+Html ve css uygulanmıstır.
+
+<h2> Ekran Görüntüsü <h2>
+
+![](udemig.gif)# udemigproje
