@@ -8,4 +8,5 @@ Html ve css uygulanmıstır.
 
 <h2> Ekran Görüntüsü <h2>
 
-![](udemig.gif)# udemigproje
+![](udemig.gif)
+# UDEMIG
